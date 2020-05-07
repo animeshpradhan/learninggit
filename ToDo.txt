@@ -1,2 +1,3 @@
 title
 400 page
+make less generic index
